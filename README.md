@@ -36,7 +36,7 @@ Mapping applications are particularly well-positioned to benefit from the seas o
 - Benefits of separation of concerns and compute are clear. Welcome to the Discothèque, **distrotechts.**
 - We could use some IoT drivers. Embed yourself here... wait, uh... **embed your sysems here**... ah, language and culture.
 - We want people to actually be able to use this beast. Pull up an **external doc** and begin your mentation... alright, alright.
-- We want contributors to actually be able to contribute. For language lighter than code, employ a **technical writer.**
+- We want contributors to actually be able to contribute. Than code, language lighter; employ a **technical writer.**
 - Time wasted is life lost. Save us, those of **utilities** abilities.
 - Vision and decision make for accuracy and precision. Come down amongst the laypeople thou people of **plans** who draw lines in sands. 
 
