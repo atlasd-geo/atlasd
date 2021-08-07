@@ -6,10 +6,10 @@ Each repository should provide its own Contributing.md. If you are creating a re
 
 ## Repository Requirements
 We expect every repository in this project to adhere to the following
-- Expose a CLI to run the application.
-- Expose a CLI to run test suites.
-- Provide a documentation server.
-- Provide a working Dockerfile or other containerization. 
+- **Expose a CLI to run the application.**
+- **Expose a CLI to run test suites.**
+- **Provide a documentation server.**
+- **Provide a working Dockerfile or other means of containerization.** 
 
 Information about working with each of these utilities must provided under the headers `Run`, `Test`, `Docs`, and `Container` in the repository README.md. For a template README.md, see README_TEMPLATE. 
 
