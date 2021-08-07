@@ -6,14 +6,22 @@ Welcome to Atlasd! This is the parent repo for the Atlasd project. If you're new
 
 Atlasd (say "at last!"; think Atlas) aims to be **web-first mapping application.** By web-first, we mean that Atlasd strives to empower developers, low-code, and no-code users to create cartographic content on the web, for the web. In contrast to services like ArcGIS online and MangoMap, Atlasd intends to be free and open-source; development patterns which minimize cost of infrastructure and maintenance are encouraged. 
 
-Grandiose aside, Atlasd is above all else supposed to a *fun* open source project wherein folks of all skills and interests can try, fail, learn, grow, and maybe even succeed. As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
+Grandiose aside, Atlasd is above all else supposed to a *fun* open source project. 
+
+We hope folks of all skills and interests can try, fail, learn, grow, and maybe even succeed. As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
 
 ## Getting started
 > The best way start is to stand.
 > 
 > -Santa Claus to the Winter Warlock, *Santa Claus is Coming to Town*
 
-Once you've read up on the Contribution rules and style guide, pick a repo from the below and following the Quick Start guide to get devin':
+1. Read the rest of this document. 
+2. Read the [Style Guide]().
+3. Read the [Contribution Guidelines]().
+4. Pick a repository.
+5. Read its guidelines.
+6. Do it's [Quick Start Activity]().
+7. 
 
 ## Core Values
 
