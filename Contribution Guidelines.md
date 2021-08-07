@@ -13,6 +13,17 @@ All repositories in this project should keep branches to a minimum. We encourage
 ### Review of PRs
 For more on review of PRs see Review.
 
+## Repository Requirements
+We expect every repository in this project to adhere to the following
+- Expose a CLI to run the application.
+- Expose a CLI to run test suites.
+- Provide a documentation server.
+- Provide a working Dockerfile or other containerization. 
+
+Information about working with each of these utilities must provided under the headers Run, Test, Docs, and Container in the repository README.md. For a template README.md, see README_TEMPLATE. 
+
+If you are unclear about any of the above, please review [atlasd-client](https://github.com/atlasd-geo/atlasd-client) as an example repository.
+
 ## Recommended Tools and Technologies
 We contributing to an existing repository or starting a new one, you ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides.
 
