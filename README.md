@@ -40,7 +40,8 @@ Mapping applications are particularly well-positioned to benefit from the seas o
 - Time wasted is life lost. Save us, those of **utilities** abilities.
 - Vision and decision make for accuracy and precision. Come down amongst the laypeople thou people of **plans** who draw lines in sands. 
 
-Check out the issues tagged **project**, in this, the parent repo, for more.
+Additionally, **existing web mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.**
+
 
 ## Core Values
 1. **Chillax:** for once, there are no deadlines. Take your time to comment and fully and formally test your code.
