@@ -20,10 +20,16 @@ We hope folks of all skills and interests can try, fail, learn, grow, and maybe 
 3. Read the [Contribution Guidelines]().
 4. Pick a repository.
 5. Read its guidelines.
-6. Do it's [Quick Start Activity]().
-7. 
+6. Do its [Quick Start Activity]().
+7. Idk. You tell me.
 
 ## Core Values
+1. **Chillax:** for once, there are no deadlines. Take your time to comment and fully and formally test your code.
+2. **Fail often:** nobody is grading this; nobody is writing a performance review. Just try something. If it breaks, oh well.
+3. **Play nice:** again, folks of all skills and interests.
+
+## Why a mapping application?
+
 
 ## Roadmap
 
