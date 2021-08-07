@@ -7,13 +7,13 @@ Welcome to Atlasd! If you're new to the project, we encourage you to read all of
 
 
 ## Overview
-**The Platform:**
+### The Platform
 - Say "at last!"; think Atlas.
 - Web-first mapping application. 
 - Strives to empower developers, low-code, and no-code users to create cartographic content on the web, for the web. 
 - Unlike [ArcGIS Online](https://www.arcgis.com/index.html) and [MangoMap](https://mangomap.com/), intends to be free and open-source.
 
-**The Project:**
+### The Project
 - *Fun* open source project. 
 - Invites folks of all skills and interests to try, fail, learn, grow, and maybe even succeed. 
 - As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
