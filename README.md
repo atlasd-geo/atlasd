@@ -1,10 +1,12 @@
 # Atlasd
 Welcome to Atlasd! If you're new to the project, we encourage you to read all of the information below before getting started.
 
+
 ## Overview
 Atlasd (say "at last!"; think Atlas) aims to be **web-first mapping application.** Atlasd strives to empower developers, low-code, and no-code users to create cartographic content on the web, for the web. In contrast to services like ArcGIS online and MangoMap, Atlasd intends to be free and open-source.
 
 Grandiose aside, Atlasd is above all else supposed to a *fun* open source project. We hope folks of all skills and interests can try, fail, learn, grow, and maybe even succeed. As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
+
 
 ## Getting started
 > The best way start is to stand.
@@ -19,10 +21,12 @@ Grandiose aside, Atlasd is above all else supposed to a *fun* open source projec
 6. Do its [Quick Start Activity]().
 7. Idk. You tell me.
 
+
 ## Core Values
 1. **Chillax:** for once, there are no deadlines. Take your time to comment and fully and formally test your code.
 2. **Fail often:** nobody is grading this; nobody is writing a performance review. Just try something. If it breaks, oh well.
 3. **Play nice:** again, folks of all skills and interests.
+
 
 ## Why a mapping application?
 
