@@ -1,4 +1,5 @@
 # How green are you?
+This activity is intended to help contributors begin their journey with Atlasd. For those completely new to open source, it's easy to get setup with the wrong tools and the wrong impressions. We encourage you to use the below to embark on the right foot.
 
 ## Like, this is my first time on Github, lol.
 Sweet! Welcome aboard sailor. We recommend taking the following steps:
