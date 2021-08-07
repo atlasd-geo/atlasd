@@ -40,7 +40,7 @@ Mapping applications are particularly well-positioned to benefit from the seas o
 - Time wasted is life lost. Save us, those of **utilities** abilities.
 - Vision and decision make for accuracy and precision. Come down amongst the laypeople thou people of **plans** who draw lines in sands. 
 
-Additionally, **existing web mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.**
+Additionally, *existing web mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.* What if we can do better?
 
 
 ## Core Values
