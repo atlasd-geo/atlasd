@@ -7,7 +7,10 @@ Welcome to Atlasd! If you're new to the project, we encourage you to read all of
 
 
 ## Overview
-Atlasd (say "at last!"; think Atlas) aims to be **web-first mapping application.** Atlasd strives to empower developers, low-code, and no-code users to create cartographic content on the web, for the web. In contrast to services like [ArcGIS Online](https://www.arcgis.com/index.html) and [MangoMap](https://mangomap.com/), Atlasd intends to be free and open-source.
+-Say "at last!"; think Atlas.
+-Web-first mapping application. 
+-Strives to empower developers, low-code, and no-code users to create cartographic content on the web, for the web. 
+-In contrast to services like [ArcGIS Online](https://www.arcgis.com/index.html) and [MangoMap](https://mangomap.com/), Atlasd intends to be free and open-source.
 
 Grandiose aside, Atlasd is above all else supposed to a *fun* open source project. We hope folks of all skills and interests can try, fail, learn, grow, and maybe even succeed. As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
 
