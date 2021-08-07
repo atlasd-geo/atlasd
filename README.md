@@ -7,12 +7,37 @@ Welcome to Atlasd! If you're new to the project, we encourage you to read all of
 
 
 ## Overview
--Say "at last!"; think Atlas.
--Web-first mapping application. 
--Strives to empower developers, low-code, and no-code users to create cartographic content on the web, for the web. 
--In contrast to services like [ArcGIS Online](https://www.arcgis.com/index.html) and [MangoMap](https://mangomap.com/), Atlasd intends to be free and open-source.
+**The Platform:**
+- Say "at last!"; think Atlas.
+- Web-first mapping application. 
+- Strives to empower developers, low-code, and no-code users to create cartographic content on the web, for the web. 
+- Unlike [ArcGIS Online](https://www.arcgis.com/index.html) and [MangoMap](https://mangomap.com/), Atlasd intends to be free and open-source.
 
-Grandiose aside, Atlasd is above all else supposed to a *fun* open source project. We hope folks of all skills and interests can try, fail, learn, grow, and maybe even succeed. As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
+**The Project:**
+- *Fun* open source project. 
+- Invite folks of all skills and interests to try, fail, learn, grow, and maybe even succeed. 
+- As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
+
+## Core Values
+1. **Chillax:** for once, there are no deadlines. Take your time to comment and fully and formally test your code.
+2. **Fail often:** nobody is grading this; nobody is writing a performance review. Just try something. If it breaks, oh well.
+3. **Fish the breadth of your seas:** again, folks of all interests. There are many ways to be useful. 
+4. **Play nice:** again, folks of all skills.
+5. **Humanities are useful:** write something interesting every now and then. It makes reading this shtuff much more entertaining.
+
+## Getting started
+> The best way start is to stand.
+> 
+> -Santa Claus to the Winter Warlock, *Santa Claus is Coming to Town*
+
+1. Do the [How green are you?](https://github.com/atlasd-geo/atlasd/blob/main/How%20green%20are%20you%3F.md) activity.
+2. Read the [Architecture Quickstart]().
+3. Read the [Contribution Guidelines]().
+4. Check out the [issues for this repo]() and the [Roadmap]().
+5. Pick a repository to contribute to.
+6. Read its guidelines.
+7. Do its [Quick Start Activity]().
+8. Get to work.
 
 ## Why a mapping web application?
 Generally, because a mapping web application can benefit from lots of different kinds of contributions. But, I'll take this question in two parts: why web application? and why mapping?
@@ -44,26 +69,3 @@ Mapping applications are particularly well-positioned to benefit from the seas o
 - Vision and decision make for accuracy and precision. Come down amongst the laypeople thou folk of **plans** who draw lines in sands. 
 
 Additionally, *existing web-based mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.* What if we can do better?
-
-
-## Core Values
-1. **Chillax:** for once, there are no deadlines. Take your time to comment and fully and formally test your code.
-2. **Fail often:** nobody is grading this; nobody is writing a performance review. Just try something. If it breaks, oh well.
-3. **Fish the breadth of your seas:** again, folks of all interests. There are many ways to be useful. 
-4. **Play nice:** again, folks of all skills.
-5. **Humanities are useful:** write something interesting every now and then. It makes reading this shtuff much more entertaining.
-
-
-## Getting started
-> The best way start is to stand.
-> 
-> -Santa Claus to the Winter Warlock, *Santa Claus is Coming to Town*
-
-1. Do the [How green are you?](https://github.com/atlasd-geo/atlasd/blob/main/How%20green%20are%20you%3F.md) activity.
-2. Read the [Architecture Quickstart]().
-3. Read the [Contribution Guidelines]().
-4. Check out the [issues for this repo]() and the [Roadmap]().
-5. Pick a repository to contribute to.
-6. Read its guidelines.
-7. Do its [Quick Start Activity]().
-8. Get to work.
