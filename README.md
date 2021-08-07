@@ -56,7 +56,7 @@ Additionally, *existing web-based mapping tools are complex, expensive, and buil
 > 
 > -Santa Claus to the Winter Warlock, *Santa Claus is Coming to Town*
 
-1. Do the [How green are you?]() activity.
+1. Do the [How green are you?](https://github.com/atlasd-geo/atlasd/blob/main/How%20green%20are%20you%3F.md) activity.
 2. Read the [Architecture Quickstart]().
 3. Read the [Contribution Guidelines]().
 4. Check out the [issues for this repo]() and the [Roadmap]().
