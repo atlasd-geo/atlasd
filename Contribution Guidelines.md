@@ -1,21 +1,28 @@
 # Contribution Guidelines
 Follow these guidelines when contributing to the Atlasd project.
 
-## Contributing
-Each repository should provide its own Contributing.md. If you are creating a repo and don't have one in mind, we suggest reviewing this template: [Contributing](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
-
 ## Repository Requirements
-We expect every repository in this project to adhere to the following
-- **Expose a CLI to run the application.**
-- **Expose a CLI to run test suites.**
-- **Provide a documentation server.**
-- **Provide a working Dockerfile or other means of containerization.** 
+We expect every repository in this project to adhere to the following. If you are unclear about any of the below, please review [atlasd-client](https://github.com/atlasd-geo/atlasd-client) as an example repository.
 
-Information about working with each of these utilities must provided under the headers `Run`, `Test`, `Docs`, and `Container` in the repository README.md. For a template README.md, see README_TEMPLATE. 
+### Utilities
+The following utilities must be included with the repository.
+1. **CLI to run the application**
+2. **CLI to run test suites**
+3. **Documentation application**
+4. **Dockerfile or other means of containerization** 
 
-Each repository must also provide its own contribution guidelines in a [Contributing.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
+### Contributing
+Each repository must contain its own contributing file. Use a [Contributing.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) as a template if you are unclear where to begin.
 
-If you are unclear about any of the above, please review [atlasd-client](https://github.com/atlasd-geo/atlasd-client) as an example repository.
+### README
+The README file for every repository should contain the following:
+1. A `Run` section, describing how to run the software.
+2. A `Test` section, describing how to run the test suites.
+3. A `Docs` section, describing how to run the documentation application.
+4. A `Container` section, describing how to run a containerized version of he software.
+5. A `Quick Start Activity` describing the an activity users should use to get familiar with the project.
+6. A link to the `Contributing `file.
+
 
 ## Git Workflow
 We encourage [CI](https://www.youtube.com/watch?v=Xl62gQpAl1w) under the following parameters.
@@ -30,7 +37,9 @@ Contributors in a position to review PRs, should abide by the following rules:
 3. **Response by Resolution:** If the solution to a faulty PR is trivial, feel empowered to make the changes yourself. But, do let the contributor know what you changed.
 
 ## Recommended Tools and Technologies
-We contributing to an existing repository or starting a new one, you ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides.
+We contributing to an existing repository or starting a new one, you ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides. 
+
+Further recommendations may be specified in documentation associated with each of the tools.
 
 ### Text Editors
 [**VSCode**](https://code.visualstudio.com/)
@@ -114,6 +123,3 @@ We contributing to an existing repository or starting a new one, you ultimately 
 ### Auth
 [**Auth0**](https://auth0.com/)
 - Go to SSO and identity provider.
-
-
-
