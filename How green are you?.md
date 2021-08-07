@@ -14,7 +14,7 @@ Sweet! Welcome aboard sailor. We recommend taking the following steps:
 5. When you're ready, head over to [Contribution Guidelines]().
 
 ## I have a bit of experience.
-Right on. We recommend VSCode and the extensions above. Other recommendations will be provided on a repo-by-repo bases. When you're ready, head over to [Contribution Guidelines]().
+Right on. We recommend VSCode and the extensions above. Other recommendations will be provided on a repo-by-repo basis. When you're ready, head over to [Contribution Guidelines]().
 
 ## I'm a vet.
 You probably aren't reading this.
