@@ -1,5 +1,5 @@
 # Architecture Quickstart
-Atlasd relies on a microservice architecture. If you aren't familiar with microservice architecture for application, check out this article from [Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices).
+Atlasd relies on a microservice architecture. If you aren't familiar with microservice architectures for applications, check out this article from [Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices).
 
 The choice to use a microservice architecture was made, in part, to keep the code modular and, ideally, to minimize infrastructure costs on delpoyment. But, perhaps more importantly, we hope this structure encourages contributors to start their own repositories and build amazing things to feed the Atlasd ecosystem.
 
