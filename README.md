@@ -33,7 +33,7 @@ Welcome to Atlasd! If you're new to the project, we encourage you to read all of
 1. Do the [How green are you?](https://github.com/atlasd-geo/atlasd/blob/main/How%20green%20are%20you%3F.md) activity.
 2. Read the [Architecture Quickstart]().
 3. Read the [Contribution Guidelines](https://github.com/atlasd-geo/atlasd/blob/main/Contribution%20Guidelines.md).
-4. Check out the [issues for this repo]() and Roadmap.
+4. Check out the [issues for this repo]() and [Roadmap](https://github.com/atlasd-geo/atlasd/blob/main/Roadmap.md).
 5. Pick a repository to contribute to.
 6. Read its guidelines.
 7. Do its [Quick Start Activity](https://github.com/atlasd-geo/atlasd/blob/main/Contribution%20Guidelines.md#README).
