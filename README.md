@@ -2,7 +2,7 @@
   <img width="200" height="200" src="https://user-images.githubusercontent.com/79056955/128594497-46dcd431-6723-4d2f-9f68-a2fd5c569e8c.png"/>
  </div>
 
-# Atlasd &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)] [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
+# Atlasd &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 Welcome to Atlasd! If you're new to the project, we encourage you to read all of the information below before getting started.
 
 
