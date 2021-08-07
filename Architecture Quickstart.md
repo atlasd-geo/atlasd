@@ -1,4 +1,4 @@
-# Architecture
+# Architecture Quickstart
 Atlasd relies on a microservice architecture. If you aren't familiar with microservice architecture for application, check out this article from [Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices).
 
 The choice to use a microservice architecture was made, in part, to keep the code modular and, ideally, to minimize infrastructure costs on delpoyment. But, perhaps more importantly, we hope this structure encourages contributors to start their own repositories and build amazing things to feed the Atlasd ecosystem.
@@ -49,4 +49,4 @@ There are not any utilities being worked on.
 ### Meta
 Meta repositories are repsitories that help provide documentation, roadmaps, and formalized opionns on Atlas development. Even if you don't feel comfortable developing, we encourage you to read and contribute to the meta.
 
-Right now the [atlasd (Main Parent Repo)](https://github.com/atlasd-geo) is the only meta.
+Right now the [atlasd (Main Parent Repo)](https://github.com/atlasd-geo/atlasd) is the only meta.
