@@ -40,7 +40,7 @@ Welcome to Atlasd! If you're new to the project, we encourage you to read all of
 8. Get to work.
 
 ## Why a mapping web application?
-On the whole, a mapping web application can benefit from lots of different kinds of contributions. But, I'll take this question in two parts: why web application? and why mapping?
+On the whole, a mapping web application can benefit from lots of different kinds of contributions. But, we'll break this question in two parts: why web application? and why mapping?
 
 ### Why web application?
 Web applications are ubiquitous today for good reason. You can build something user-friendly quickly, you can layer on complexity progressively, and you can pull from a vast and transparent ecosystem of web technologies. For a contributor, there are seemingly endless ways to get involved in web application development as a complete N00B, a hardened vet, or anything in between:
