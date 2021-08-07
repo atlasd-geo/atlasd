@@ -1,0 +1,34 @@
+# Architecture
+Atlasd will rely on a microservice-based architecture. This is, in part, to keep the code modular and, ideally, to minimize infrastructure costs on delpoyment. But, perhaps more importantly, we hope this modular structure encourages contributors to start their own repositories and build amazing things to feed the Atlasd ecosystem.
+
+To learn more about the overall architecture, please visit the atlasd-architecture repo.
+
+## Repository Types
+Repositories within Atlasd should generally fall into one of five categories: clients, microservices, packages, utilities, and meta.
+
+### Clients
+Clients are the client-side applications that tie all of the Atlasd ecosystem together.
+
+Work is under way on the following clients:
+
+atlasd-client (Main Web Client)
+
+### Microservices
+Microservices are the server-side applications that enable the clients do all the cool things we need them to do. This can a least-cost path service, a geo-rectfier, an account icon uploader, an IP piggy-bank that wires money to Zuck on every call--anything really.
+
+There are not any microservices being worked on.
+
+### Packages
+Packages are bits of reusable logic that ought not be stuck inside a single application. If for example, you write a nice Python module to compute the average distance between points on a map layer, you should probably make that package.
+
+There are not any packages being worked on.
+
+### Utilities
+If you like making development processes run better, this is for you. Whether it's template generators, setup scripts, or whatever other best-pratice-enforced-by-code there's always a lot that can be done to help make dev easier and more standardized.
+
+There are not any utilities being worked on.
+
+### Meta
+Meta repositories are repsitories that help provide documentation, roadmaps, and formalized opionns on Atlas development. Even if you don't feel comfortable developing, we encourage you to read and contribute to the meta.
+
+Right now the [atlasd (Main Parent Repo)](https://github.com/atlasd-geo) is the only meta.
