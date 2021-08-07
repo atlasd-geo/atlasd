@@ -1,5 +1,5 @@
 # Atlasd
-Welcome to Atlasd! This is the parent repo for the Atlasd project. If you're new to the project, we encourage you to read all of the information below before getting started. We know you probably won't, but it was worth asking.
+Welcome to Atlasd! If you're new to the project, we encourage you to read all of the information below before getting started.
 
 ## Overview
 **tl;dr:** It's a mapping web app.
