@@ -21,7 +21,7 @@ Grandiose aside, Atlasd is above all else supposed to a *fun* open source projec
 2. Read the [Style Guide]().
 3. Read the [Contribution Guidelines]().
 4. Read the [Architecture Quickstart]().
-5. Pick a repository.
+5. Pick a repository to contribute to.
 6. Read its guidelines.
 7. Do its [Quick Start Activity]().
 8. Idk. You tell me.
