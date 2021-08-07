@@ -13,9 +13,11 @@ Grandiose aside, Atlasd is above all else supposed to a *fun* open source projec
 
 
 ## Getting started
-> The best way start is to stand.
-> 
-> -Santa Claus to the Winter Warlock, *Santa Claus is Coming to Town*
+<p>
+    > The best way start is to stand.
+    > 
+    > -Santa Claus to the Winter Warlock, *Santa Claus is Coming to Town*
+</p>
 
 1. Read the rest of this document. 
 2. Read the [Style Guide]().
