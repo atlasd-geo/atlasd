@@ -50,3 +50,6 @@ There are not any utilities being worked on.
 Meta repositories are repsitories that help provide documentation, roadmaps, and formalized opionns on Atlas development. Even if you don't feel comfortable developing, we encourage you to read and contribute to the meta.
 
 Right now the [atlasd (Main Parent Repo)](https://github.com/atlasd-geo/atlasd) is the only meta.
+
+## Next Steps
+If you're coming here on your first trip into the Atlasd project, the next place you'll want to go is [Contribution Guidelines](https://github.com/atlasd-geo/atlasd/blob/main/Contribution%20Guidelines.md).
