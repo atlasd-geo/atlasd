@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex; justify-content: center">
   Hello
  </div>
 
