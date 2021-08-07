@@ -18,6 +18,9 @@ The **identity provider** and **role provider** together form the Auth system th
 
 For a visual representation of the service architecture, review the [Architecture Quickstart](https://docs.google.com/presentation/d/1X_PXxBQBLjXTfP17kSLM6m6KB487YMzLb4R2CXMUzfE/edit?usp=sharing) slide deck.
 
+![Screen Shot 2021-08-07 at 2 23 44 PM](https://user-images.githubusercontent.com/79056955/128614182-480204e8-5bbe-4991-81be-80443c823298.png)
+
+
 ## Repository Types
 Repositories within Atlasd should generally fall into one of five categories: clients, microservices, packages, utilities, and meta.
 
