@@ -7,6 +7,8 @@ Welcome to Atlasd! If you're new to the project, we encourage you to read all of
 
 
 ## Overview
+Atlasd is a open-source web-first GIS, dubbed mapping application herein. If you aren't familiar with GIS, we recommend following along with this [QGIS Quick Start](https://www.youtube.com/watch?v=kCnNWyl9qSE) to get a sense of what we hope this can become and exceed.
+
 ### The Platform
 - Say "at last!"; think Atlas.
 - Web-first mapping application. 
@@ -24,6 +26,7 @@ Welcome to Atlasd! If you're new to the project, we encourage you to read all of
 3. **Fish the breadth of your seas:** again, folks of all interests. There are many ways to be useful. 
 4. **Play nice:** again, folks of all skills.
 5. **Humanities are useful:** write something interesting every now and then. It makes reading this shtuff much more entertaining.
+6. **Simple interfaces at all levels**: write software that is easy to work with even if those working with it don't need it do be.
 
 ## Getting started
 > The best way start is to stand.
