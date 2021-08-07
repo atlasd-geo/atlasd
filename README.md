@@ -38,9 +38,9 @@ Mapping applications are particularly well-positioned to benefit from the seas o
 - We want people to actually be able to use this beast. Pull up an **external doc** and begin your mentation... alright, alright.
 - We want contributors to actually be able to contribute. Than code, language lighter; employ a **technical writer.**
 - Time wasted is life lost. Save us, those of **utilities** abilities.
-- Vision and decision make for accuracy and precision. Come down amongst the laypeople thou people of **plans** who draw lines in sands. 
+- Vision and decision make for accuracy and precision. Come down amongst the laypeople thou folk of **plans** who draw lines in sands. 
 
-Additionally, *existing web mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.* What if we can do better?
+Additionally, *existing web-based mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.* What if we can do better?
 
 
 ## Core Values
