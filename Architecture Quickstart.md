@@ -6,7 +6,7 @@ The choice to use a microservice architecture was made, in part, to keep the cod
 You do not need to fully, or even remotely, understand the architecture to begin contributing. However, if you are interested in creating a repo of your own, demonstrated understanding of the architecture is necessary.
 
 ## Philosophy
-While certain hosting services may be suggested, *see* [Contribution Guidelines](https://github.com/atlasd-geo/atlasd/blob/main/Contribution%20Guidelines.md), we encourage all software to written to be laregly machine and service independent. Containerization and separation of concerns should be adhered to consistently. 
+While certain hosting services may be suggested, *see* [Contribution Guidelines](https://github.com/atlasd-geo/atlasd/blob/main/Contribution%20Guidelines.md), we encourage all software to be written largely machine and service independent. Containerization and separation of concerns should be adhered to consistently. 
 
 ## Services
 The service structure of Atlasd will include the following:
