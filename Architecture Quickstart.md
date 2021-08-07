@@ -1,7 +1,22 @@
 # Architecture
-Atlasd will rely on a microservice-based architecture. This is, in part, to keep the code modular and, ideally, to minimize infrastructure costs on delpoyment. But, perhaps more importantly, we hope this modular structure encourages contributors to start their own repositories and build amazing things to feed the Atlasd ecosystem.
+Atlasd relies on a microservice architecture. If you aren't familiar with microservice architecture for application, check out this article from [Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices).
 
-To learn more about the overall architecture, please visit the atlasd-architecture repo.
+The choice to use a microservice architecture was made, in part, to keep the code modular and, ideally, to minimize infrastructure costs on delpoyment. But, perhaps more importantly, we hope this structure encourages contributors to start their own repositories and build amazing things to feed the Atlasd ecosystem.
+
+You do not need to fully, or even remotely, understand the architecture to begin contributing. However, if you are interested in creating a repo of your own, demonstrated understanding of the architecture is necessary.
+
+## Services
+The service structure of Atlasd will include the following:
+- Client delivery services
+- Identity provider
+- Role provider
+- Central database
+- Microservices
+- File service
+
+The **identity provider** and **role provider** together form the Auth system that should used by all other services. Auth0 has been proposed for the identity provider and Fauna has been proposed as the BAAS that will enable the implementation of a role provider. Ideally, the role provider and central database will exist as one service; any data that should be accessible throughout the application ought to live in the same place as roles, as they too should be accesible throughout the application.
+
+For a visual representation of the service architecture, review the [Architecture Quickstart](https://docs.google.com/presentation/d/1X_PXxBQBLjXTfP17kSLM6m6KB487YMzLb4R2CXMUzfE/edit?usp=sharing) slide deck.
 
 ## Repository Types
 Repositories within Atlasd should generally fall into one of five categories: clients, microservices, packages, utilities, and meta.
@@ -11,7 +26,7 @@ Clients are the client-side applications that tie all of the Atlasd ecosystem to
 
 Work is under way on the following clients:
 
-atlasd-client (Main Web Client)
+[atlasd-client (Main Web Client)](https://github.com/atlasd-geo/atlasd-client)
 
 ### Microservices
 Microservices are the server-side applications that enable the clients do all the cool things we need them to do. This can a least-cost path service, a geo-rectfier, an account icon uploader, an IP piggy-bank that wires money to Zuck on every call--anything really.
