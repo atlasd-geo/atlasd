@@ -33,6 +33,10 @@ Atlasd is a open-source web-first GIS, dubbed mapping application herein. If you
 > 
 > -Santa Claus to the Winter Warlock, *Santa Claus is Coming to Town*
 
+### The Short Way
+Find a [toycontribution](https://github.com/atlasd-geo/atlasd/labels/toycontribution) and get going.
+
+### The Long Way
 1. Do the [How green are you?](https://github.com/atlasd-geo/atlasd/blob/main/How%20green%20are%20you%3F.md) activity.
 2. Read the [Architecture Quickstart](https://github.com/atlasd-geo/atlasd/blob/main/Architecture%20Quickstart.md).
 3. Read the [Contribution Guidelines](https://github.com/atlasd-geo/atlasd/blob/main/Contribution%20Guidelines.md).
