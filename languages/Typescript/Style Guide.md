@@ -71,8 +71,8 @@ const hideYoSpouseAndKids = (you : Person, spouse : Spouse, kids : Kid[])=>{
 
 ## Comments
 - Use [Typedoc](https://typedoc.org/) conventions with the addition of the following:
-  - @dev: for remarks on refactoring and other development pattern suggestions
-- Always use @description when describing what a variable or function is or does.
+  - `@dev`: for remarks on refactoring and other development pattern suggestions
+- Always use `@description` when describing what a variable or function is or does.
 - Try to write code that doesn't require too many comments to understand.
 
 ## Variables
