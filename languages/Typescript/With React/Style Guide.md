@@ -33,7 +33,7 @@ class Tree{
 * @description Encouraged factory.
 * @remarks
 * mkTree make be preferred in some circumstances.
-* /
+*/
 const Tree = (name : string, germDate : Date)=>{
   return {
     name : name,
