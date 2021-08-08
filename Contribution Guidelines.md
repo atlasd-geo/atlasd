@@ -171,3 +171,6 @@ Further recommendations may be specified in documentation associated with each o
 ### Auth
 [**Auth0**](https://auth0.com/)
 - Go to SSO and identity provider.
+
+### Hosting Services
+- WIP
