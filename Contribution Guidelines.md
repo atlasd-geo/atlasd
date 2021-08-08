@@ -1,5 +1,10 @@
 # Contribution Guidelines
-Follow these guidelines when contributing to the Atlasd project.
+Getting well enough oriented to contribute to an open source project can be challenging. If this is your first time here, we recommend searching Issues for the toycontribution tag. The toy contribution tag marks activities designed to help get you started. Once you're set, come back here to dive in.
+
+## Issues
+Issues are organized as follows.
+
+
 
 ## Repository Requirements
 We expect every repository in this project to adhere to the following. If you are unclear about any of the below, please review [atlasd-client](https://github.com/atlasd-geo/atlasd-client) as an example repository.
