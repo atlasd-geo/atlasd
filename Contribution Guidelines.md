@@ -1,7 +1,7 @@
 # Contribution Guidelines
 Getting well enough oriented to contribute to an open source project can be challenging. 
 - If this is your first time here, we recommend searching [Issues](https://github.com/atlasd-geo/atlasd/issues?q=is%3Aopen+is%3Atoycontribution+) for the toycontribution tag. 
-- The toy contribution tag marks activities designed to help get you started. 
+- The toycontribution tag marks activities designed to help get you started. 
 - Once you're set, come back here to dive in.
 
 ## Issues
