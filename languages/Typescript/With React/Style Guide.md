@@ -31,8 +31,10 @@ class Tree{
  
 /**
 * @description Encouraged factory.
+* @remarks
+* mkTree make be preferred in some circumstances.
 * /
-const Tree = (name : string, germDate : Date)=>{ // mkTree may be preferred in some contexts
+const Tree = (name : string, germDate : Date)=>{
   return {
     name : name,
     germDate : Date
@@ -41,8 +43,6 @@ const Tree = (name : string, germDate : Date)=>{ // mkTree may be preferred in s
  
  /**
  * @description Discouraged factory for object with member function.
- * @ remarks
- * mkTree make be preferred in some circumstances.
  */
 const Tree = (name : string, germDate : Date) : TreeI=>{
   return {
