@@ -18,6 +18,7 @@ Atlasd is a open-source web-first GIS, dubbed "mapping application" herein. If y
 ### The Project
 - *Fun* open source project. 
 - Invites folks of all skills and interests to try, fail, learn, grow, and maybe even succeed. 
+- Microservice-based architecture to encourage asynchronous and independent projects of all kinds.
 - As you read through, we hope you'll be convinced that there is something for every kind of developer, or even simply thinker, to add to this project.
 
 ## Core Values
