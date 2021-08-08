@@ -5,9 +5,49 @@ Getting well enough oriented to contribute to an open source project can be chal
 - Once you're set, come back here to dive in.
 
 ## Issues
-Issues are organized as follows.
+Issues can be assigned the following labels. Please copy these labels into any new repo you create.
 
+### documentation
+Use to mark any issue that is related to documentation.
 
+### proposal
+Use to propose changes to process or code.
+
+### enhancement
+Use to mark proposals that have been agreed are an improvement on process or code.
+
+### help wanted
+Use to mark issues that need more people to resolve.
+
+### question
+Use to mark general questions.
+
+### duplicate
+Use to mark a duplicate before closing.
+
+### toycontribution
+Use to mark an activity intended to help first time users get started.
+
+### good first issue
+Use to mark an issue that doesn't require significant knowledge of process or code, but which is intended for actual use.
+
+### easy
+Use to mark an issue that should be resolved easily.
+
+### medium 
+Use to mark an issue that should be moderately challenging to resolve.
+
+### hard
+Use to mark an issue that should be hard to resolve.
+
+### ultra
+Use to mark an issue that would be a big undertaking. Big ideas and requests are suited for the ultra tag.
+
+### mega
+Use to mark an issue that would be a massive undertaking. Not only should these be big ideas, but big ideas that require deep knowledge that goes beyond that commonly used in day-to-day development.
+
+### bug
+Use to mark a bug in process or code.
 
 ## Repository Requirements
 We expect every repository in this project to adhere to the following. If you are unclear about any of the below, please review [atlasd-client](https://github.com/atlasd-geo/atlasd-client) as an example repository.
