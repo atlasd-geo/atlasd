@@ -25,7 +25,7 @@ For a visual representation of the service architecture, review the [Architectur
 
 
 ## Repository Types
-Repositories within Atlasd should generally fall into one of five categories: clients, microservices, packages, utilities, and meta.
+Due to the above architecture, repositories within Atlasd should generally fall into one of five categories: clients, microservices, packages, utilities, and meta.
 
 ### Clients
 Clients are the client-side applications that tie all of the Atlasd ecosystem together.
