@@ -94,10 +94,11 @@ Further recommendations may be specified in documentation associated with each o
 - Tools and Best Practices: WIP.
 
 ### General Purpose Languages
-[**Typescript**](https://www.typescriptlang.org/)
+[**TypeScript**](https://www.typescriptlang.org/)
 - Use of plain Javascript is discouraged.
 - Suggested for use with [React.js](https://reactjs.org/) frontends and [Express.js](https://expressjs.com/) backends.
-- Style Guide 
+- [Style Guide](https://github.com/atlasd-geo/atlasd/tree/main/languages/Typescript) 
+- [With React](https://github.com/atlasd-geo/atlasd/tree/main/languages/Typescript/With%20React)
 
 [**Python**](https://www.python.org/)
 - Use for backend development.
@@ -120,7 +121,7 @@ Further recommendations may be specified in documentation associated with each o
 ### Frontend Technologies
 [**React/React Native**](https://reactjs.org/)
 - Use for most frontend development.
-- Style Guide
+- [TypeScript With React](https://github.com/atlasd-geo/atlasd/tree/main/languages/Typescript/With%20React)
 
 [**Electron**](https://www.electronjs.org/)
 - Use with React for any desktop application development.
