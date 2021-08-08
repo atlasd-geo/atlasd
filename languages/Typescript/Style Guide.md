@@ -20,6 +20,8 @@ const logName = (name : string)=>{
   console.log(name);
 }
 ```
+- Use `import` instead of `require`.
+- The rest is up to you. (Different recommendations may apply for certain frameworks and technologies.)
 
 ## Patterns
 - Use OOP and Functional patterns freely. (Different recommendations may apply for certain frameworks and technologies.)
