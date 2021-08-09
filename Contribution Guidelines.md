@@ -88,7 +88,7 @@ Contributors in a position to review PRs, should abide by the following rules:
 3. **Response by Resolution:** if the solution to a faulty PR is trivial, feel empowered to make the changes yourself. But, do let the contributor know what you changed.
 
 ## Recommended Tools and Technologies
-We contributing to an existing repository or starting a new one, you ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides. 
+When contributing to an existing repository or starting a new one, you will ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides. 
 
 Further recommendations may be specified in documentation associated with each of the tools.
 
