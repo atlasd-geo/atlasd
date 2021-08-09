@@ -70,7 +70,7 @@ The README file for every repository should contain the following:
 1. A `Run` section, describing how to run the software.
 2. A `Test` section, describing how to run the test suites.
 3. A `Docs` section, describing how to run the documentation application.
-4. A `Container` section, describing how to run a containerized version of he software.
+4. A `Container` section, describing how to run a containerized version of the software.
 5. A `Quick Start Activity` describing the an activity users should use to get familiar with the project.
 6. A link to the `Contributing `file.
 
