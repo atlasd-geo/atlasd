@@ -49,11 +49,13 @@ Find a [toycontribution](https://github.com/atlasd-geo/atlasd/labels/toycontribu
 
 ## Why a mapping web application?
 
-**As a platform:** *existing web-based mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.* What if we can do better?
+### As a platform 
+*Existing web-based mapping tools are complex, expensive, and built on top of ecosystems that were not web-first.* What if we can do better?
 
-**As a project**: on the whole, a mapping web application can benefit from lots of different kinds of contributions. But, we'll break this question in two parts: why web application? and why mapping application?
+### As a project
+A mapping web application can benefit from lots of different kinds of contributions. But, we'll break this question in two parts: why web application? and why mapping application?
 
-### Why web application?
+#### Why web application?
 Web applications are ubiquitous today for good reason. You can build something user-friendly quickly, you can layer on complexity progressively, and you can pull from a vast and transparent ecosystem of web technologies. For a contributor, there are seemingly endless ways to get involved in web application development as a complete N00B, a hardened vet, or anything in between:
 - Commit a new component for the frontend.
 - Write a performant data store for the client.
@@ -65,7 +67,7 @@ Web applications are ubiquitous today for good reason. You can build something u
 
 Whatever it is you want to do, there's a good chance it can be used.
 
-### Why mapping application?
+#### Why mapping application?
 Mapping applications are particularly well-positioned to benefit from the seas of skill and interest:
 - Frontends need to be pretty. Hello, the **design-inclined!**
 - Frontends need to be infromative. Hello, **content-strat cats!**
