@@ -10,7 +10,7 @@ Phase 0 will focus on getting contributors into the project and beginning experi
 
 ### Web Client
 **Goals:**
-- Build a simple GIS interface on top of Deck.gl or Leaflet.js.
+- Build a simple GIS interface on top of [Deck.gl](https://deck.gl/) or [Leaflet.js](https://leafletjs.com/).
 - Provide landing page.
 - Integrate with Auth0
 
