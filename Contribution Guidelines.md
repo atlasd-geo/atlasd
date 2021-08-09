@@ -83,9 +83,9 @@ All repositories in this project should keep branches to a minimum. We encourage
 
 ### Review of PRs
 Contributors in a position to review PRs, should abide by the following rules:
-1. **Duty to Respond:** As long as the PR is not completely irrelevant, we urge you to issue a response.
-2. **Strict Merging:** Never merge a pull request that does not pass all tests. 
-3. **Response by Resolution:** If the solution to a faulty PR is trivial, feel empowered to make the changes yourself. But, do let the contributor know what you changed.
+1. **Duty to Respond:** as long as the PR is not completely irrelevant, we urge you to issue a response.
+2. **Strict Merging:** *never* merge a pull request that does not pass all tests. 
+3. **Response by Resolution:** if the solution to a faulty PR is trivial, feel empowered to make the changes yourself. But, do let the contributor know what you changed.
 
 ## Recommended Tools and Technologies
 We contributing to an existing repository or starting a new one, you ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides. 
