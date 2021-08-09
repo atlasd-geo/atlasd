@@ -5,7 +5,7 @@ Getting well enough oriented to contribute to an open source project can be chal
 - Once you've completed one, come back here to dive in.
 
 ## Issues
-Issues can be assigned the following labels. Please copy these all of these labels except for `toycontribution` into any new repo you create. toycontribution is reserved for the Atlasd Parent Repo.
+Issues can be assigned the labels below. If you make a new repo, please copy these all of these labels except for `toycontribution`; `toycontribution` is reserved for the Atlasd Parent Repo.
 
 #### `no code`
 Use this to mark an issue that can be potentially be resolved without any code.
