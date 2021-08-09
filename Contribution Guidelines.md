@@ -2,7 +2,7 @@
 Getting well enough oriented to contribute to an open source project can be challenging. 
 - If this is your first time here, we recommend searching [Issues](https://github.com/atlasd-geo/atlasd/issues?q=is%3Aopen+is%3Atoycontribution+) for the toycontribution tag. 
 - The toycontribution tag marks activities designed to help get you started. 
-- Once you're set, come back here to dive in.
+- Once you've completed one, come back here to dive in.
 
 ## Issues
 Issues can be assigned the following labels. Please copy these all of these labels except for `toycontribution` into any new repo you create. toycontribution is reserved for the Atlasd Parent Repo.
