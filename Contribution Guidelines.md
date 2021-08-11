@@ -2,51 +2,54 @@
 Getting well enough oriented to contribute to an open source project can be challenging. 
 - If this is your first time here, we recommend searching [Issues](https://github.com/atlasd-geo/atlasd/issues?q=is%3Aopen+is%3Atoycontribution+) for the toycontribution tag. 
 - The toycontribution tag marks activities designed to help get you started. 
-- Once you're set, come back here to dive in.
+- Once you've completed one, come back here to dive in.
 
 ## Issues
-Issues can be assigned the following labels. Please copy these labels into any new repo you create.
+Issues can be assigned the labels below. If you make a new repo, please copy these all of these labels except for `toycontribution`; `toycontribution` is reserved for the Atlasd Parent Repo.
 
-### documentation
+#### `no code`
+Use to mark an issue that can be potentially be resolved without any code.
+
+#### `documentation`
 Use to mark any issue that is related to documentation.
 
-### proposal
+#### `proposal`
 Use to propose changes to process or code.
 
-### enhancement
+#### `enhancement`
 Use to mark proposals that have been agreed are an improvement on process or code.
 
-### help wanted
+#### `help wanted`
 Use to mark issues that need more people to resolve.
 
-### question
+#### `question`
 Use to mark general questions.
 
-### duplicate
+#### `duplicate`
 Use to mark a duplicate before closing.
 
-### toycontribution
+#### `toycontribution`
 Use to mark an activity intended to help first time users get started.
 
-### good first issue
+#### `good first issue`
 Use to mark an issue that doesn't require significant knowledge of process or code, but which is intended for actual use.
 
-### easy
+#### `easy`
 Use to mark an issue that should be resolved easily.
 
-### medium 
+#### `medium` 
 Use to mark an issue that should be moderately challenging to resolve.
 
-### hard
+#### `hard`
 Use to mark an issue that should be hard to resolve.
 
-### ultra
+#### `ultra`
 Use to mark an issue that would be a big undertaking. Big ideas and requests are suited for the ultra tag.
 
-### mega
+#### `mega`
 Use to mark an issue that would be a massive undertaking. Not only should these be big ideas, but big ideas that require deep knowledge that goes beyond that commonly used in day-to-day development.
 
-### bug
+#### `bug`
 Use to mark a bug in process or code.
 
 ## Repository Requirements
@@ -67,8 +70,8 @@ The README file for every repository should contain the following:
 1. A `Run` section, describing how to run the software.
 2. A `Test` section, describing how to run the test suites.
 3. A `Docs` section, describing how to run the documentation application.
-4. A `Container` section, describing how to run a containerized version of he software.
-5. A `Quick Start Activity` describing the an activity users should use to get familiar with the project.
+4. A `Container` section, describing how to run a containerized version of the software.
+5. A `Quick Start Activity` describing an activity users should use to get familiar with the project. Instead of writing up the Quick Start Activity in the README, we recommend writing the activity as an Issue with the `toycontribution` tag and then linking to the issue.
 6. A link to the `Contributing `file.
 
 
@@ -80,12 +83,12 @@ All repositories in this project should keep branches to a minimum. We encourage
 
 ### Review of PRs
 Contributors in a position to review PRs, should abide by the following rules:
-1. **Duty to Respond:** As long as the PR is not completely irrelevant, we urge you to issue a response.
-2. **Strict Merging:** Never merge a pull request that does not pass all tests. 
-3. **Response by Resolution:** If the solution to a faulty PR is trivial, feel empowered to make the changes yourself. But, do let the contributor know what you changed.
+1. **Duty to Respond:** as long as the PR is not completely irrelevant, we urge you to issue a response.
+2. **Strict Merging:** *never* merge a pull request that does not pass all tests. 
+3. **Response by Resolution:** if the solution to a faulty PR is trivial, feel empowered to make the changes yourself. But, do let the contributor know what you changed.
 
 ## Recommended Tools and Technologies
-We contributing to an existing repository or starting a new one, you ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides. 
+When contributing to an existing repository or starting a new one, you will ultimately have to pick the right tool for the job. That said, we recommend selecting from the tools and technologies below. If you do use the below, please adhere to any provided style guides. 
 
 Further recommendations may be specified in documentation associated with each of the tools.
 
@@ -94,10 +97,11 @@ Further recommendations may be specified in documentation associated with each o
 - Tools and Best Practices: WIP.
 
 ### General Purpose Languages
-[**Typescript**](https://www.typescriptlang.org/)
+[**TypeScript**](https://www.typescriptlang.org/)
 - Use of plain Javascript is discouraged.
 - Suggested for use with [React.js](https://reactjs.org/) frontends and [Express.js](https://expressjs.com/) backends.
-- Style Guide 
+- [Style Guide](https://github.com/atlasd-geo/atlasd/tree/main/languages/Typescript) 
+- [With React](https://github.com/atlasd-geo/atlasd/tree/main/languages/Typescript/With%20React)
 
 [**Python**](https://www.python.org/)
 - Use for backend development.
@@ -120,7 +124,7 @@ Further recommendations may be specified in documentation associated with each o
 ### Frontend Technologies
 [**React/React Native**](https://reactjs.org/)
 - Use for most frontend development.
-- Style Guide
+- [TypeScript With React](https://github.com/atlasd-geo/atlasd/tree/main/languages/Typescript/With%20React)
 
 [**Electron**](https://www.electronjs.org/)
 - Use with React for any desktop application development.

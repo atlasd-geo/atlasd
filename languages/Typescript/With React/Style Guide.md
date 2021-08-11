@@ -3,7 +3,7 @@ Follow this style guide when using TypeScript to write React. Also consult the T
 
 ## Patterns 
 - Leverage the [Context API](https://reactjs.org/docs/context.html) instead of higher order functions to solve most cases wherein state needs to be shared between components.
-- Use the Component FTTemplate to generate folder structures for components.
+- Use the [.fttemplates](https://github.com/atlasd-geo/atlasd/tree/main/languages/Typescript/With%20React/.fttemplates) and the VSCode [Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure) extension to generate folder structures for components.
 - Avoid using classes. In cases where you need a class, consider whether you actually just need a factory function. If you think you need a member function, consider whether a functional pattern might suffice. Functional and immutable patterns are encouraged to reduce context switching and maintain simplicity.
 ```typescript
 /**
